@@ -1,6 +1,6 @@
 # ASMR Python Raylib
 
-10 Beginner Projects to learn Raylib in Python - 2D/3D Game Development.
+10+ Beginner Projects to learn Raylib in Python - 2D/3D Game Development.
 
 ## Projects
 

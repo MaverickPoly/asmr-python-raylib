@@ -1,0 +1,12 @@
+# Window
+WIDTH, HEIGHT = 1600, 1000
+TITLE = "Space shooter"
+
+# Player
+PLAYER_SPEED = 700
+
+# Meteor
+METEOR_SPAWN_DURATION = 0.2
+
+# Laser
+LASER_SPEED = 1500
