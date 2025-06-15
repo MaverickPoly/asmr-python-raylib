@@ -20,15 +20,15 @@
    - A paddle-and-ball game where you break bricks.  
    - **Skills Learned**: Collision resolution (angle bouncing), level design.  
 
-### **5. Memory Card Matching Game**  
-   - Flip cards to find matching pairs.  
-   - **Skills Learned**: 2D arrays for grid logic, timer-based gameplay.  
+### **5. Camera Example**
+   - Generate a big map of shapes and textures, and player with camera that can travel through map.
 
 ### **6. Simple Platformer**  
    - A character that jumps between platforms.  
    - **Skills Learned**: Tile-based maps, basic physics (jumping/falling).  
 
 ### **7. Space Shooter**  
+
    - A top-down shooter where you dodge or shoot enemies.  
    - **Skills Learned**: Sprite movement, enemy AI (simple patterns), shooting mechanics.  
 
@@ -43,6 +43,3 @@
 ### **10. Endless Runner (Dino Game like Chrome’s Offline Game)**  
    - Jump over obstacles that get faster over time.  
    - **Skills Learned**: Infinite scrolling, difficulty progression, collision checks.  
-
-### **11. Camera Example**
-   - Generate a big map of shapes and textures, and player with camera that can travel through map.
