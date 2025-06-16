@@ -36,9 +36,8 @@
    - A 2-player (or vs. AI) board game.  
    - **Skills Learned**: Turn-based logic, mouse input, win condition checks.  
 
-### **9. Maze Runner**  
-   - Navigate a player through a randomly generated maze.  
-   - **Skills Learned**: Procedural generation (simple maze algorithms), pathfinding.  
+### **9. Sokoban Clone**  
+   - Create a simple clone of sokoban game.
 
 ### **10. Endless Runner (Dino Game like Chrome’s Offline Game)**  
    - Jump over obstacles that get faster over time.  
