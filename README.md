@@ -42,4 +42,4 @@
 
 ### **10. Endless Runner (Dino Game like Chrome’s Offline Game)**  
    - Jump over obstacles that get faster over time.  
-   - **Skills Learned**: Infinite scrolling, difficulty progression, collision checks.  
+   - **Skills Learned**: Infinite scrolling, difficulty progression, collision checks.
