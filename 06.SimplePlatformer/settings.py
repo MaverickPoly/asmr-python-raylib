@@ -1,0 +1,16 @@
+from raylib import *
+
+# Window
+WIDTH, HEIGHT = 1400, 800
+TITLE = "Simple Platformer"
+
+
+# Player
+GRAVITY = 5
+PLAYER_W, PLAYER_H = 60, 100
+JUMP_STRENGTH = 1700
+PLAYER_SPEED = 700
+PLAYER_COLOR = BLUE
+
+# Platforms
+PLATFORM_COLOR = GREEN
