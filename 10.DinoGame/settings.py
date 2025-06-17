@@ -1,0 +1,13 @@
+# Window
+WIDTH, HEIGHT = 1200, 700
+GROUND_Y = 600 - 2
+
+# Player
+PLAYER_W, PLAYER_H = int(500 / 6), int(550 / 6)
+GRAVITY = 6
+JUMP_FORCE = 1800
+
+# Cactus
+CACTUS_SPEED = 600
+CACTUS_W, CACTUS_H = int(289 / 5), int(500 / 5)
+
